@@ -4,7 +4,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hea-kapai-299675287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hea-kapai-299675287" height="30" width="40" /></a>
-<a href="https://instagram.com/heakapai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heakapai" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/hea11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hea11" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/kapaiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kapaiha" height="30" width="40" /></a>
 <!-- <a href="https://codeforces.com/profile/kapaiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kapaiha" height="30" width="40" /></a>
