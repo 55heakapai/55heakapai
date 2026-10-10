@@ -12,7 +12,7 @@
 
 ### Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,mysql,sqlite,react,tailwind,bootstrap,django,git,linux,bash,figma,arduino" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nextjs,tailwind,spring,django,fastapi,postgres,mongodb,mysql,aws,docker,kubernetes,linux,git,github,jenkins,postman,vscode" />
 </p>
 
 # 📊 GitHub Stats:
